@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on AI/ML projects 
 - 📫 You can email me at charvi.310896@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I learned to fly before I started learning to drive a car. 
 
 <!---
 charvi-aggarwal/charvi-aggarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
